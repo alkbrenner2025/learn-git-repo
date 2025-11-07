@@ -6,7 +6,7 @@ public class Main {
         String c = "die";
         String d = "Beste";
 
-        System.out.println(a + " " + b + " " + c + " " + d.);
+        System.out.println(a + " " + b + " " + c + " " + d);
     }
 
 }
